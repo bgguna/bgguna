@@ -5,4 +5,4 @@ I graduated from The University of Manchester with a Master of Engineering in Co
 I'm also a great outdoors enthusiast ⛰, climber 🧗‍♂️, cyclist 🚲, runner 🏃‍♂️ and a coffee snob ☕️. On most days, you can also find me fiddling with my camera 📷.
 
 - 📖 I’m currently learning how to build iOS apps.
-- 📫 How to reach me: [email ✉️](mailto:bgguna@icloud.com) ]
+- 📫 How to reach me: [email ✉️](mailto:bgguna@icloud.com)
